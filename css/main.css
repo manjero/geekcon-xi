@@ -14,8 +14,9 @@ section {
 	margin:0;
 }
 
-h4 {
+h4, h3 {
 	font-weight: 400;
+  	color: #191950;
 }
 
 .top-section-hero .jumbotron>div {
