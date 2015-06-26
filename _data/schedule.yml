@@ -1,0 +1,68 @@
+-
+  date: "2015-09-10"
+  dateReadable: "Sep 10th"
+  tracks:
+    - {title: "GeekCon 2015!", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "00:00",
+    	sessionIds: [101]
+    }
+-
+  date: "2015-09-11"
+  dateReadable: "Sep 11th"
+  tracks:
+    - {title: "GeekCon 2015!", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "",
+    	sessionIds: [201]
+    }
+    - {
+    	startTime: "13:00",
+    	endTime: "",
+    	sessionIds: [202]
+    }
+    - {
+    	startTime: "19:00",
+    	endTime: "",
+    	sessionIds: [203]
+    }
+    - {
+    	startTime: "21:30",
+    	endTime: "",
+    	sessionIds: [204]
+    }
+    - {
+    	startTime: "23:00",
+    	endTime: "",
+    	sessionIds: [205]
+    }
+-
+  date: "2015-09-12"
+  dateReadable: "Sep 12th"
+  tracks:
+    - {title: "GeekCon 2015!", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "",
+    	sessionIds: [301]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "",
+    	sessionIds: [302]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "",
+    	sessionIds: [303]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "",
+    	sessionIds: [304]
+    }

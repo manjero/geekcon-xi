@@ -1,0 +1,6 @@
+-
+  group: "Sponsors"
+  elements:
+    - {name: "Google", description: "", link: "http://www.google.com/", imageUrl: "google.png"}
+    - {name: "Wix", description: "", link: "http://www.wix.com/", imageUrl: "wix.png"}
+    - {name: "Autodesk", description: "", link: "http://www.autodesk.com/", imageUrl: "autodesk.png"}

@@ -1,0 +1,4 @@
+-
+  group: "General sponsor"
+  elements:
+    - {name: "GeekCon", description: "", link: "http://www.geekcon.com/", imageUrl: ""}
