@@ -43,11 +43,12 @@ h4 {
 }
 
 form#ss-form {
-	width: 60%;
+	width: 100%;
 	margin: 0 auto;
 	padding: 0;
 	text-align: left;
 	font-size: 14px;
+	max-width: 600px;
 }
 
 form#ss-form .ss-required-asterisk {
