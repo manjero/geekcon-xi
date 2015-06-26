@@ -58,6 +58,7 @@ statisticBlock:
  - {count: "200", specialCharacter: "", info: "attendees", detail: ""}
  - {count: "3", specialCharacter: "", info: "action packed days", detail: ""}
  - {count: "1", specialCharacter: "", info: "awesome event", detail: ""}
+ - {count: "24", specialCharacter: "", info: "aftershock hours", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
